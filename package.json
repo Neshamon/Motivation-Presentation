@@ -96,5 +96,8 @@
       "no-eq-null": 2,
       "no-unused-expressions": 0
     }
+  },
+  "dependencies": {
+    "eslint": "^7.5.0 || ^8.0.0"
   }
 }
